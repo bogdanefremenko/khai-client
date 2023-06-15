@@ -1,7 +1,6 @@
-using Khai;
 using System.Diagnostics;
 
-using var client = new KhaiClient();
+using var client = new KhaiClient.KhaiClient();
 
 // https://education.khai.edu/union/schedule/student/efremenko-b-v-623p
 var studentSchedule = await client.GetStudentWeekScheduleAsync("efremenko-b-v-623p");

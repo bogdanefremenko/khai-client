@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Khai;
+namespace KhaiClient.Data;
 
 public class DaySchedule
 {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Khai;
+namespace KhaiClient.Data;
 
 public class UniversityClass
 {

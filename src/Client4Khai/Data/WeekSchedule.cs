@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace Khai;
+namespace KhaiClient.Data;
 
 public class WeekSchedule
 {

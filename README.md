@@ -1,4 +1,4 @@
-# Client4Khai
+# KhaiClient
 Client for https://education.khai.edu to get schedule.
 
 ## How to use?

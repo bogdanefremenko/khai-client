@@ -1,12 +1,14 @@
-﻿using HtmlAgilityPack;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Threading.Tasks;
+using HtmlAgilityPack;
+using KhaiClient.Data;
+using KhaiClient.Extensions;
 
-namespace Khai;
+namespace KhaiClient;
 
 public class KhaiClient : IDisposable
 {
